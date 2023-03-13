@@ -35,3 +35,12 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+
+1
+11
+111
+1111
+2
+22
+222
+2222
